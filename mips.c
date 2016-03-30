@@ -1,11 +1,5 @@
 #include <stdio.h>
-
-struct reg{
-
-  char* name;
-  int value;
-
-};
+#include "registers.h"
 
 int main(void)
 {
